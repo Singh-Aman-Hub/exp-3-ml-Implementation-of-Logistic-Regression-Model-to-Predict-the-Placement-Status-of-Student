@@ -21,7 +21,7 @@ Developed by: Aman Singh
 RegisterNumber: 212224040020
 */
 ```
-```
+```python
 
 import pandas as pd
 data=pd.read_csv('Placement_Data.csv')
